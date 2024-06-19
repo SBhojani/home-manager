@@ -41,6 +41,7 @@ in {
           gnugrep
           gnused
           coreutils
+          findutils
           nettools
           util-linux
           profile-sync-daemon
