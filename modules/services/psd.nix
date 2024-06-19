@@ -38,6 +38,9 @@ in {
           rsync
           kmod
           gawk
+          gnugrep
+          gnused
+          coreutils
           nettools
           util-linux
           profile-sync-daemon
